@@ -1,5 +1,5 @@
 title: Preben's World
-description: A clean github page for my future projects to live in.
-show_downloads: true
+description: Just a page for my future projects to live in.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
